@@ -12,6 +12,8 @@
     <a href="https://github.com/SaifAqqad/AHK_MicMute/actions?query=workflow%3Acompile_prerelease"><img src="http://img.shields.io/github/actions/workflow/status/SaifAqqad/AHK_MicMute/compile_prerelease.yaml?branch=master&color=FF7720&logo=githubactions&logoColor=FFFFFF&style=for-the-badge"></img></a>
 </p>
 
+## 请前往Release下载简体中文版本，以下内容为原版README
+
 ## Features
 
    * Set up multiple profiles and link them to apps/games
